@@ -45,8 +45,8 @@ hr {
     width: 10%;
     align-items: center;
     margin: 10px auto;
+    margin-top: 30px;
 }
-
 
 .middle_container {
     text-align: center;
@@ -101,6 +101,7 @@ hr {
 
 .skill_2 {
     text-align: left;
+    padding-bottom: 2em;
 }
 
 p {
@@ -122,6 +123,7 @@ a {
 }
 
 .get_in_touch {
+    padding-top: 2em;
     text-align: center;
 }
 
